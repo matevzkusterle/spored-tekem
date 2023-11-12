@@ -1,5 +1,5 @@
 #CILJ KODE: imamo seznam ekip ter hočemo sestaviti urnik tekem. Ekipe igrajo vsaka z vsako, enkrat doma, drugič v gosteh.
-#OPOMBA: kodo se poganja v terminal, tako da oznacimo željeno (sicer se požene vrstica v kateri se nahaja kursor) + shift + enter
+#OPOMBA: za VS Code se kodo poganja v terminal, tako da oznacimo željeno (sicer se požene vrstica v kateri se nahaja kursor) + shift + enter
 
 import random
 
